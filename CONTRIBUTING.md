@@ -1,4 +1,4 @@
-# Contributing to OpenSSF Scorecard
+# Contributing to OpenSSF Scorecard.
 
 Thank you for contributing your time and expertise to the OpenSSF Scorecard
 project. This document describes the contribution guidelines for the project.
